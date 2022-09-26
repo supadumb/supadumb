@@ -1,4 +1,8 @@
-### Hi there 👋 I'm [@supadumb](https://github.com/supadumb) a.k.a [@bunmamd4cb13t](https://github.com/bunmamd4cb13t)
+<div align="center">
+
+### [@supadumb](https://github.com/supadumb) a.k.a [@bunmamd4cb13t](https://github.com/bunmamd4cb13t)
+
+</div>
 
 <div>
     <details>
