@@ -23,7 +23,7 @@ PROFILE INFORMATION
 </th>
 
 <th style="text-align: center">
-<img height="1">
+<img height="1" width="385px">
 
 ```
 📌 PINNED REPOSITORIES 📌
