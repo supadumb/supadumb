@@ -8,9 +8,11 @@
     <details>
         <summary><b><strong>Quick Overview</strong></b></summary>
     <br>
-
+        
+<div align="center">
+    
 <table width="100%"> 
-  <thead>
+<thead>
 <th style="text-align: center">
 <img height="1" width="385px">
 
@@ -40,11 +42,14 @@ PROFILE INFORMATION
 
 &nbsp;<br>
     <a href="https://github.com/supadumb/Playground"><img src="https://img.shields.io/badge/Playground-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <br>
     <a href="https://github.com/supadumb/public.WU"><img src="https://img.shields.io/badge/public.WU-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+    <br>
     <a href="https://github.com/supadumb/SEED-repository"><img src="https://img.shields.io/badge/SEED repository-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-
+    <br>
   </p>
   </td>
 </table>
   
+</div>
 </div>
